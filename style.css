@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300;1,600&family=Roboto:ital,wght@0,700;1,400&display=swap");
 
 body {
-  background: lightgray;
+  background: rgb(231, 231, 231);
   font-family: "Roboto";
 }
 
@@ -37,8 +37,9 @@ h2 {
 
 h3 {
   font-size: 30px;
+  margin-left: 10px;
   margin-bottom: 15px;
-  font-family: "Righteous";
+  font-family: "Roboto";
   font-weight: normal;
 }
 
@@ -57,6 +58,10 @@ img {
 
 p {
   margin: 15px 0 0 0;
+}
+
+.info {
+  color: #5c5c5c;
 }
 
 .preco {
